@@ -1,4 +1,3 @@
-const utils = require('./utils.js');
 const chai = require('chai');
 
 const fizzBuzz = require('../excerciseOne.js');
